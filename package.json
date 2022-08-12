@@ -1,0 +1,19 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoffalypse/README-Generator.git"
+  },
+  "author": "Bryan W",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hoffalypse/README-Generator/issues"
+  },
+  "homepage": "https://github.com/Hoffalypse/README-Generator#readme"
+}
