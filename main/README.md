@@ -1,9 +1,9 @@
 
-# this 
+# Demo Project 
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-that
+This is a demo of the final product for my README generator.
 
 ## Table of Contents
 - [Installation](#Installation)
@@ -14,22 +14,22 @@ that
 - [Questions](#Questions)
 
 ## Installation
-this
+To run the program enter 'node index.js on the command line.
 
 ## Usage
-that
+Follow the propmts to fill out all of the information for the README.
 
 ## License
 This application is covered under Apache 2.0 License
 
 ## Contributing
-this
+Contriibutions are done through Github
 
 ## Tests 
-that
+Test everything, always.
 
 ## Questions
-Please send any questions or comments to this 
+Please send any questions or report issues to demo@email.com 
 
-The attached link is to my Github Profile https://github.com/that
+The attached link is to my Github Profile https://github.com/demogit
      
