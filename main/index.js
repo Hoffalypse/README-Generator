@@ -11,7 +11,7 @@ inquirer
     {
       type: 'input',
       name: 'description',
-      message: 'Please enter the description for your Project:'
+      message: 'Enter the Description for your Project:'
     },
     {
       type: 'input',
@@ -75,7 +75,7 @@ inquirer
 # ${answers.project} 
 
 ${badger(answers.license)}
- 
+
 ${answers.description}
 
 ## Table of Contents
@@ -110,16 +110,16 @@ The attached link is to my Github Profile https://github.com/${answers.github}
 function badger (license){
         
   if (license === 'Apache 2.0 License'){
-   license = '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)'
+   badge = '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)'
   }
   else if (license ==='Boost Software License 1.0'){
-      license = '[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)'
+      badge = '[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)'
   }
   else if(license === 'Eclipse Public License 1.0'){
-      license = '[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)'
+      badge = '[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)'
   }
   else {
-      license = '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)'
+      badge = '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)'
   }
-  return(license)
+  return(badge)
 }
