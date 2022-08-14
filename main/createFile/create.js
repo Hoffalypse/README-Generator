@@ -27,6 +27,7 @@ ${answers.test}
 
 ## Questions
 Please send any questions or comments to ${answers.email}
+The attached link is to my Github Profile https://github.com/${answers.github}
          `
         
     }

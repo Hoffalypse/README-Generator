@@ -49,7 +49,7 @@ inquirer
     
     {
     type: 'input',
-    name: 'github-username',
+    name: 'github',
     message: 'What is your Github Username?'
     }
   ])
