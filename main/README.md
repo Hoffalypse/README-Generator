@@ -1,9 +1,9 @@
 
-# Random App 
+# ok 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
         
-This app does a little bit of everything.
+ok
 
 ## Table of Contents
 - [Installation](#Installation)
@@ -14,22 +14,22 @@ This app does a little bit of everything.
 - [Questions](#Questions)
 
 ## Installation
-for this app use node index.js
+ook
 
 ## Usage
-This app has more uses than you can possibly imagine.
+ooook
 
 ## License
- This application is covered under The MIT License
+ This application is covered under Boost Software License 1.0
 
 ## Contributing
-Please help make this the greatest app ever.
+okoko
 
 ## Tests 
-I wouldn't test, just go for it.
+okok
 
 ## Questions
-Please send any questions or comments to email@email.com 
+Please send any questions or comments to kkkk 
 
-The attached link is to my Github Profile https://github.com/Hoffalypse
+The attached link is to my Github Profile https://github.com/oioi
          

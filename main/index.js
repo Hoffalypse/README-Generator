@@ -53,7 +53,7 @@ inquirer
     }
   ])
   .then((answers) => {
-   
+   console.log(answers)
     const fillInfo = ReadmeFile.createReadme(answers);
     fs.writeFile('README.md',fillInfo, function (err){
         if (err) {
