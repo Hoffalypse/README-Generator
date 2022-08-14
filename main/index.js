@@ -34,16 +34,16 @@ inquirer
     message: 'Enter the Testing Information:'
     },
     {
-      type: 'input',
-      name: 'email',
-      message: 'Input email use for questions or comments:',
-    },
-    {
         type:'list',
         name:'license',
         message:'Which license would you like to use for your application?',
         choices:['Apache 2.0 License', 'Boost Software License 1.0', 'Eclipse Public License 1.0', 'The MIT License'],
     
+    },
+    {
+      type: 'input',
+      name: 'email',
+      message: 'Input Email for Submitting Questions or Comments:',
     },
     {
     type: 'input',
@@ -102,7 +102,7 @@ ${answers.contribution}
 ${answers.test}
 
 ## Questions
-Please send any questions or comments to ${answers.email} \n
+Please send any questions or report issues to ${answers.email} \n
 The attached link is to my Github Profile https://github.com/${answers.github}
      `
     
