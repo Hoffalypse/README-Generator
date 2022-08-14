@@ -12,12 +12,12 @@ inquirer
     {
       type: 'input',
       name: 'description',
-      message: 'Please enter the description for your Project'
+      message: 'Please enter the description for your Project:'
     },
     {
       type: 'input',
       name: 'installation',
-      message: 'Enter the Installations Instructions:'
+      message: 'Enter the Installation Instructions:'
     },
     {
       type: 'input',
@@ -37,24 +37,23 @@ inquirer
     {
       type: 'input',
       name: 'email',
-      message: 'Input email for questions or comments',
+      message: 'Input email use for questions or comments:',
     },
     {
         type:'list',
         name:'license',
         message:'Which license would you like to use for your application?',
         choices:['Apache 2.0 License', 'Boost Software License 1.0', 'Eclipse Public License 1.0', 'The MIT License'],
-        default: 'Apache 2.0 License'
-    },
     
+    },
     {
     type: 'input',
     name: 'github',
-    message: 'What is your Github Username?'
+    message: 'Enter your Github Username'
     }
   ])
   .then((answers) => {
-    console.log(answers)
+   
     const fillInfo = ReadmeFile.createReadme(answers);
     fs.writeFile('README.md',fillInfo, function (err){
         if (err) {

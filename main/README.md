@@ -1,6 +1,10 @@
-# ll 
 
-oio
+# Random App 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+        
+This app does a little bit of everything.
+
 ## Table of Contents
 - [Installation](#Installation)
 - [Usage](#Usage)
@@ -10,21 +14,22 @@ oio
 - [Questions](#Questions)
 
 ## Installation
-ijij
+for this app use node index.js
 
 ## Usage
-nnj
+This app has more uses than you can possibly imagine.
 
 ## License
- Apache 2.0 License
+ This application is covered under The MIT License
 
 ## Contributing
-njn
+Please help make this the greatest app ever.
 
 ## Tests 
- nn
+I wouldn't test, just go for it.
 
 ## Questions
-Please send any questions or comments to oo
-The attached link is to my Github Profile https://github.com/jkj
+Please send any questions or comments to email@email.com 
+
+The attached link is to my Github Profile https://github.com/Hoffalypse
          
