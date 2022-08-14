@@ -1,7 +1,8 @@
 class ReadmeFile {
     static createReadme(answers){
         return `# ${answers.project} 
-     ${answers.description}
+
+${answers.description}
 ## Table of Contents
 - [Installation](#Installation)
 - [Usage](#Usage)
