@@ -1,5 +1,5 @@
 # README-Generator
-This is an app that quickly and easily creates a high quality README.md by just filling in prompts.
+This is an app that quickly and easily creates a high quality README.md by just filling in prompts.It was created to help developers quickly create a README.md with all the necessary information so that they can spend more time on what really matters to them.
 
 ## Table of Contents
 - [Installation](#Installation)
@@ -14,9 +14,14 @@ In order to run this program you will need a code editor, either VS code or some
 ## Usage 
 Once the app starts user will be given a series of prompts to fill out that correlate to sections of the README to be created. User will be asked to fill out the description, installation, usage, contribution guidlines and testing requirements. Next the user will be asked to pick license information and be given four options to choose from. The up/down arrow keys will allow user move through the options. Finally the user will be asked for email and Github Username which will be shown in the questions section with instructions on how to contact the README creator with questions or issues. 
 
-<p align ="center">
-<img src = "https://drive.google.com/file/d/1K2QUJXsdhSGzaFA2TMecnKKZs--l_bES/view" alt = "prompt demo">
-</p>
+
+https://user-images.githubusercontent.com/106857564/184735249-abef18e6-1ad6-4066-9193-4f1c1ef55f60.mp4
+
+Link to video on Google Drive 
+https://drive.google.com/file/d/1K2QUJXsdhSGzaFA2TMecnKKZs--l_bES/view
+
+
+
 
 ## Contributing 
 In order to contribute to this work, fork the reposiutoty and submit pull requests for my approval.
