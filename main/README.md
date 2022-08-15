@@ -1,9 +1,9 @@
 
-# Demo Project 
+# The demo project 
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
-This is a demo of the final product for my README generator.
+to make a quality README
 
 ## Table of Contents
 - [Installation](#Installation)
@@ -14,22 +14,22 @@ This is a demo of the final product for my README generator.
 - [Questions](#Questions)
 
 ## Installation
-To run the program enter 'node index.js on the command line.
+use 'node index.js'
 
 ## Usage
-Follow the propmts to fill out all of the information for the README.
+fill in the prompts
 
 ## License
-This application is covered under Apache 2.0 License
+This application is covered under Boost Software License 1.0
 
 ## Contributing
-Contriibutions are done through Github
+please contribute
 
 ## Tests 
-Test everything, always.
+test everything
 
 ## Questions
-Please send any questions or report issues to demo@email.com 
+Please send any questions or report issues to email@email.com 
 
 The attached link is to my Github Profile https://github.com/demogit
      
