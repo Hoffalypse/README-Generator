@@ -1,5 +1,5 @@
 # README-Generator
-This is an app that quickly and easily creates a high quality README.md by just filling in prompts.
+This is an app that quickly and easily creates a high quality README.md by just filling in prompts.It was created to help developers quickly create a README.md with all the necessary information so that they can spend more time on what really matters to them.
 
 ## Table of Contents
 - [Installation](#Installation)
