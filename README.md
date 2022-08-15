@@ -15,10 +15,13 @@ In order to run this program you will need a code editor, either VS code or some
 Once the app starts user will be given a series of prompts to fill out that correlate to sections of the README to be created. User will be asked to fill out the description, installation, usage, contribution guidlines and testing requirements. Next the user will be asked to pick license information and be given four options to choose from. The up/down arrow keys will allow user move through the options. Finally the user will be asked for email and Github Username which will be shown in the questions section with instructions on how to contact the README creator with questions or issues. 
 
 
-https://user-images.githubusercontent.com/106857564/184735249-abef18e6-1ad6-4066-9193-4f1c1ef55f60.mp4
+
+https://user-images.githubusercontent.com/106857564/184744070-a620c7eb-92f4-4c35-896e-e427b2c82407.mp4
+
+
 
 Link to video on Google Drive 
-https://drive.google.com/file/d/1K2QUJXsdhSGzaFA2TMecnKKZs--l_bES/view
+https://drive.google.com/file/d/1bpoHU1FRZAnBjb-KTQ6VJVXE_OixjNRy/view
 
 
 
